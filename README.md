@@ -64,9 +64,6 @@ p53-rasmol-study/
 │   ├── mutant_p53.jpg          # RasMol screenshot - mutant
 │   └── structural_comparison.md
 │
-├── docs/                       # Project report and documentation
-│   └── PROJECT_REPORT_Archa.pdf
-│
 └── images/                     # Figures and diagrams
 ```
 
